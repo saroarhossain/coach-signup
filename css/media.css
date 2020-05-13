@@ -1,0 +1,23 @@
+@media(max-width: 1199px){
+section .row {
+    min-height: 680px;
+    
+}
+@media(max-width: 991px){
+	section .row {
+    min-height: 580px;}
+
+@media(max-width: 767px){
+	section .row {
+    min-height: 500px;}
+    
+
+}
+
+
+@media(max-width: 575px){
+
+	}
+
+
+

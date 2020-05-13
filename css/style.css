@@ -1,0 +1,76 @@
+section{
+	background-image:url(../images/bg.jpg);
+	background-repeat: no-repeat;
+	align-items: center;
+	background-size: cover;
+}
+section .top {
+    color: white;
+    font-size: 28px;
+    text-align: center;
+    display: block;
+    margin-bottom: 25px;
+    font-weight: 700;
+}
+section .top:hover {
+	text-decoration:none
+}
+.signup-section{
+	width: 100%;
+	height: 650px;
+}
+.heading {
+    background: #231f3c;
+    width: 100%;
+    justify-items: center;
+    padding: 60px;
+    margin-left: 30px;
+}
+
+p {
+    font-size: 15px;
+    color: #757474;
+    margin-bottom: 30px;
+    padding: 8px 0;
+}
+
+label {
+    font-size: 16px;
+    color: #757474;
+}
+h1 {
+    font-size: 42px;
+    color: #fff;
+}
+.signin{
+    padding-top: 15px;
+}
+.signin p{}
+.signin  a{
+    color: #F44336 !important;
+    text-decoration: none !important;
+    font-size: 15px !important;
+}
+.signin  a:hover {
+    color: #ef1e0ed4 !important;
+    
+}
+
+.btn-primary {
+    color: #fff;
+    background-color: #f94f42 !important;
+    border: none !important;
+    font-size: 18px;
+    font-weight: 500;
+    padding: 9px;
+    margin-top: 15px;
+}
+
+.btn-primary:hover {
+    color: #fff;
+    background-color: #ef2e2e !important;
+    border: none !important;
+}
+.form-control {
+    padding: 1.25rem 0.5rem;
+}
